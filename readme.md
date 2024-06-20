@@ -14,7 +14,6 @@ This project demonstrates how to encrypt and decrypt audio files using the AES e
 - Python 3.x
 - `pydub` library for handling audio files
 - `cryptography` library for encryption and decryption
-- `numpy` library (optional for additional functionalities)
 
 ## Installation
 
